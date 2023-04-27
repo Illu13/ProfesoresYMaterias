@@ -82,6 +82,9 @@ public class VistaExamen extends JFrame {
 				
 				p.cargarMaterias((Docente) jcbDocente.getSelectedItem());
 
+				
+				
+				
 			}
 		});
 				
